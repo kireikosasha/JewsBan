@@ -1,0 +1,4 @@
+name: JewsBan
+version: '${project.version}'
+main: kireiko.dev.jewsban.JewsBan
+api-version: '1.20'

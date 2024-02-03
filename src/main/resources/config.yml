@@ -1,0 +1,5 @@
+#created by pawsashatoy and yatwinkle
+
+enable: true
+bypass: true # for opped or jewsban.bypass
+message: "Trading with villagers not allowed!" # put "none: for disable

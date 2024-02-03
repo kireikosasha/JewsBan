@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JewsBan">
+    <output-path>$PROJECT_DIR$/out/artifacts/JewsBan</output-path>
+    <root id="archive" name="JewsBan.jar">
+      <element id="module-output" name="JewsBan" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources" />
+    </root>
+  </artifact>
+</component>
