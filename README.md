@@ -1,6 +1,5 @@
 # Advanced Villager trade blocking
-The best plugin for blocking trades with residents. 
-
+The best plugin for blocking trades with residents. Require Java 17
 
 # <p align="center">Config guide</p>
   
