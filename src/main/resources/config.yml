@@ -2,4 +2,4 @@
 
 enable: true
 bypass: true # for opped or jewsban.bypass
-message: "Trading with villagers not allowed!" # put "none: for disable
+message: "Trading with villagers not allowed!" # put "none" for disable
